@@ -1,7 +1,7 @@
-function pigLatin() {
+function toPigLatin(phrase) {
   // Your code here
 }
 
 module.exports = {
-  pigLatin
+  toPigLatin,
 };
