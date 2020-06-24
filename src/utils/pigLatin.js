@@ -3,7 +3,7 @@ function toPigLatin(phrase) {
   if (phrase === "") {
     return "";
   }
-  words = phrase.split(" ");
+  let words = phrase.split(" ");
 
   words.forEach((word, i) => {
     word += word[0];
