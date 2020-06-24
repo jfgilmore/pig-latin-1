@@ -18,4 +18,4 @@ module.exports = {
   toPigLatin,
 };
 
-toPigLatin("doggy has a bone");
+export default toPigLatin;
