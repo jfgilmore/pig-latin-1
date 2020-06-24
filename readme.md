@@ -66,5 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-
-What is pig latin? Pig latin takes the first letter of every word, moves it to the end of the word and adds an ‘ay’ after it. For example, "the quick brown fox" becomes "hetay uickqay rownbay oxfay".
