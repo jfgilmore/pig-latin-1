@@ -7,8 +7,7 @@ function toPigLatin(phrase) {
 
   words.forEach((word, i) => {
     word += word[0];
-    word = word.substr(1 - word.length);
-    word += "ay";
+    word = word.substr(1 - word.length) + "ay";
     words[i] = word;
   });
 
